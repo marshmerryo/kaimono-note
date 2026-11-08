@@ -34,7 +34,7 @@ main { padding: 28px 0 48px; }
 h1 { font-size: 1.6rem; line-height: 1.4; margin: 0 0 12px; }
 h2 { font-size: 1.25rem; margin: 36px 0 8px; padding-bottom: 4px; border-bottom: 2px solid var(--line); }
 a { color: var(--accent); }
-.pr { display: inline-block; font-size: .8rem; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 2px 8px; margin-bottom: 12px; }
+.pr { display: inline-block; font-size: .8rem; color: var(--text); font-weight: 700; border: 1px solid var(--line); border-radius: 4px; padding: 2px 8px; margin-bottom: 12px; }
 .meta { color: var(--muted); font-size: .85rem; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 16px; margin: 16px 0; }
 .posts { list-style: none; padding: 0; }
